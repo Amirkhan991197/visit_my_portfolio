@@ -11,8 +11,7 @@ function About() {
         {/* Profile Image */}
         <div className="col-md-4 text-center mb-4 mb-md-0">
           <img
-            src="src\assets\portfolio.png"
-            alt="Amir Khan"
+            src="/portfolio.png" alt="Amir Khan"
             className="rounded-circle img-fluid shadow-lg border border-info"
             style={{ width: "220px", height: "220px", objectFit: "cover" }}
           />
